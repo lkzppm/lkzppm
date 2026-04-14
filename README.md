@@ -1,87 +1,79 @@
-<h1 align="center"><b>Hi , I'm Lucas Pacheco</b></h1>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<img src="https://media.tenor.com/LARfQgCl6dQAAAAi/artorias-dark-souls.gif" width="55%" align="right" />
+<div align="center">
 
-<br><br>
-  
-<p><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></p>
+<br>
 
-- 📚 Currently studying **Computer Engineering at UERJ**
-- 🔧 Working as an **AI & Automation Python Developer** at **Mundivox**
-- 🧑‍🎓 Conducted research as a **Software & Automation Researcher** at **CBPF**
+# Lucas Pacheco
+
+### AI Engineer &nbsp;·&nbsp; Rio de Janeiro, Brazil
+
 </div>
 
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<img src="https://media.tenor.com/LARfQgCl6dQAAAAi/artorias-dark-souls.gif" width="38%" align="right" />
+
+## <img src="https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width="28px"/> &nbsp;About
+
+<br>
+
+- **Now** &nbsp;·&nbsp; AI Developer @ OceanPact
+- **Studying** &nbsp;·&nbsp; Computer Engineering @ UERJ
+- **Status** &nbsp;·&nbsp; Open to opportunities
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px"/> &nbsp;Stack
+
+<img src="https://cdna.artstation.com/p/assets/images/images/050/300/326/original/pixel-odis-noface.gif?1654537408" align="right" width="20%"/>
+
+<br>
+
+**AI & ML** &nbsp;•&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-0071e3?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0071e3?style=flat-square&logo=readthedocs&logoColor=white)
+![AI Agents](https://img.shields.io/badge/LLM%20Agents-0071e3?style=flat-square&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0071e3?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0071e3?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-0071e3?style=flat-square&logo=anthropic&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-0071e3?style=flat-square&logo=mlflow&logoColor=white)
+
+**Backend** &nbsp;•&nbsp;
+![Python](https://img.shields.io/badge/Python-0071e3?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0071e3?style=flat-square&logo=java&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0071e3?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0071e3?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0071e3?style=flat-square&logo=typescript&logoColor=white)
+
+**Data** &nbsp;•&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0071e3?style=flat-square&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0071e3?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0071e3?style=flat-square&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-0071e3?style=flat-square&logo=googlechrome&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-0071e3?style=flat-square&logo=apachespark&logoColor=white)
+
+**Tools** &nbsp;•&nbsp;
+![Git](https://img.shields.io/badge/Git-0071e3?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0071e3?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0071e3?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0071e3?style=flat-square&logo=linux&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0071e3?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0071e3?style=flat-square&logo=githubactions&logoColor=white)
+
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
+
+### Contact
+
+<a href="mailto:lucasppmc@gmail.com"><img src="https://img.shields.io/badge/Email-0071e3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/LinkedIn-0071e3?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/lkzrat"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<sub>lucasppmc@gmail.com &nbsp;·&nbsp; linkedin.com/in/lucasppmc &nbsp;·&nbsp; github.com/lkzrat</sub>
 
-<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"/><b>  Skills</b></h2>
-
-<img src="https://cdna.artstation.com/p/assets/images/images/050/300/326/original/pixel-odis-noface.gif?1654537408" align="right" width="35%"/>
-
-<ul>
-    <li><b>Programming Languages:</b><br>
-        <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-    </li>
-    <li><b>Frameworks & Libraries:</b><br>
-        <a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
-    </li>
-    <li><b>AI & Machine Learning:</b><br>
-        <a href="#"><img src="https://img.shields.io/badge/-LangChain-FF6F00?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-LlamaIndex-FF4500?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-RAG%20Pipelines-8A2BE2?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-LLMs%20(OpenAI,%20Anthropic)-000000?style=for-the-badge"/></a>
-    </li>
-    <li><b>Databases:</b><br>
-        <a href="#"><img src="https://img.shields.io/badge/-Vector%20Databases%20(Chroma,%20Pinecone)-4CAF50?style=for-the-badge"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-    </li>
-    <li><b>DevOps & Tools:</b><br>
-        <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-CI/CD%20(GitHub%20Actions)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Prompt%20Engineering-FF69B4?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Semantic%20Search-8B0000?style=for-the-badge"/></a>
-  </li>
-</ul>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<details>
-  <summary><img src = "https://cdn.pixabay.com/animation/2023/03/19/15/09/15-09-56-389_512.gif" width = 30px><b>  Github Stats</b></summary>
-<div>
-<samp>
-<br>
-<p align="center">
-<a href="https://github.com/lkzrat">
-    <img alt="lkzrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lkzrat&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lkzrat&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="lkzrat" height="200px"/>
-</p>
-<br>
-</samp>
 </div>
-</details>
-
-<br>
-<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></h2>
-<p align="center">
-<a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/-Lucas%20Pacheco-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lucasppmc@gmail.com"><img src="https://img.shields.io/badge/-lucasppmc@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/lkzrat"><img src="https://img.shields.io/badge/-lkzrat-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.leetcode.com/lkz_dev"><img src="https://img.shields.io/badge/-lkz_dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/lkz_rat"><img src="https://img.shields.io/badge/-@lkz_rat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
