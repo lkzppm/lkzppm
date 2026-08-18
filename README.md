@@ -17,7 +17,7 @@
 <br>
 
 - **Now** &nbsp;·&nbsp; AI Developer @ OceanPact
-- **Studying** &nbsp;·&nbsp; Computer Engineering @ UERJ
+- **Studying** &nbsp;·&nbsp; Computer Engineering @ UFRJ
 - **Status** &nbsp;·&nbsp; Open to opportunities
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -70,10 +70,10 @@
 &nbsp;
 <a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/LinkedIn-0071e3?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://github.com/lkzrat"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/lkzppm"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br><br>
 
-<sub>lucasppmc@gmail.com &nbsp;·&nbsp; linkedin.com/in/lucasppmc &nbsp;·&nbsp; github.com/lkzrat</sub>
+<sub>lucasppmc@gmail.com &nbsp;·&nbsp; linkedin.com/in/lucasppmc &nbsp;·&nbsp; github.com/lkzppm</sub>
 
 </div>
